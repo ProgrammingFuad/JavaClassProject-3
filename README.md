@@ -3,7 +3,7 @@
 
 This was my third project of the Spring 2016 Semester and I learned a TON of new programming concepts. 
 I learned what data structures were and used a simple sort, implemented a recursive method, and succesfully implemented a class
-with only the java api as a resource-- The Comparable Class--. This project was not done on my own, but through a collaboration of 
+with only the java api as a resource-- The Comparable Class--. This project also taught me how to analyze data and find out why the program output was the way it was. This project was not done on my own, but through a collaboration of 
 3 great minds who are noted as authors in the program as well. Below are the list of requirements the program must adhere by in order to get a perfect score on the project.
 
 
