@@ -1,4 +1,4 @@
-# JavaClassProject-3
+# Presidental Election Project-
 
 
 This was my third project of the Spring 2016 Semester and I learned a TON of new programming concepts. 
