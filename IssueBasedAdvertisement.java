@@ -2,8 +2,6 @@ import java.util.*;
 /**
  * The IssueBasedAdvertisement class is used to simulate an IssueBased Advertisement put out by a candidate
  * IssueBasedAdvertisement is a subclass of Advertisement
- * @author Josiah Burkhardsmeier
- * @author Elvin Gateri
  * @author Fuad Mohamoud
  */
 public class IssueBasedAdvertisement extends Advertisement
