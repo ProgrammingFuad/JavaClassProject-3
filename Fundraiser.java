@@ -4,8 +4,6 @@
  * Fundraiser has a location, Candidate, and donors
  * The Candidate is presidential candidate that's is going to a fundraiser
  * The Donor is the people attending and contributing the the candidate's presidential run
- * @author Josiah Burkhardsmeier
- * @author Elvin Gateri
  * @author Fuad Mohamoud
  */
 import java.util.Random;
