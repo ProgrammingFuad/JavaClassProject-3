@@ -3,8 +3,6 @@
  * An election has all Candidates, and title- it used this information to determine the winner of the presidential run.
  * The candidates is an Arraylist of all Candidates
  * The title is the name of the election that's being conducted
- * @author Josiah Burkhardsmeier
- * @author Elvin Gateri
  * @author Fuad Mohamoud
  */
 import java.util.*;
