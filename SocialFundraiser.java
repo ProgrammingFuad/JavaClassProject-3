@@ -1,6 +1,4 @@
 /**
- * @author Josiah Burkhardsmeier
- * @author Elvin Gateri
  * @author Fuad Mohamoud
  */
 public class SocialFundraiser extends Fundraiser
