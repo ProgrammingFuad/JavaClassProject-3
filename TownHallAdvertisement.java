@@ -2,8 +2,6 @@ import java.util.ArrayList;
 /**
  * The TownHallAdvertisement class is used to simulate a TownHall Advertisement
  * The TownHallAdvertisement is a subclass of Advertisement
- * @author Josiah Burkhardsmeier
- * @author Elvin Gateri
  * @author Fuad Mohamoud
  */
 
