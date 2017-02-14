@@ -2,8 +2,6 @@
  * The PhoneFundraiser class is used to simulate a Automated Phone Calls Fundraiser
  * The PhoneFundraiser class subclass of Fundraiser
  * The PhoneFundraiser has a location, and candidate.
- * @author Josiah Burkhardsmeier
- * @author Elvin Gateri
  * @author Fuad Mohamoud
  */
 public class PhoneFundraiser extends Fundraiser
