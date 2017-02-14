@@ -1,8 +1,6 @@
 /**
  * This is the Driver class for this assignment. It will run the program
  * and meet all requirements of the out of lab 2
- * @author Josiah Burkhardsmeier
- * @author Elvin Gateri
  * @author Fuad Mohamoud
  */
 
