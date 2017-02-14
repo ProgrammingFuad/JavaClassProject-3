@@ -2,8 +2,6 @@
  * The Debate class is used to simulate a Political Debate
  * The Debate has a location, and two ArrayList of candidates
  * Location is used to determine the location of the debate, due to changed an methods in the Class we used two arraylists of Candidate .
- * @author Josiah Burkhardsmeier
- * @author Elvin Gateri
  * @author Fuad Mohamoud
  */
 import java.util.ArrayList;
