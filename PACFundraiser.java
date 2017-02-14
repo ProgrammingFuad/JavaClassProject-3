@@ -2,9 +2,6 @@ import java.util.ArrayList;
 /**
  * The PACFundraiser class is used to simulate a Political Action Committees Fundraiser
  * The PACFundraiser class subclass of Fundraiser
- * The PACFundraiser has a location, and candidate and a Candidate arraylist.
- * @author Josiah Burkhardsmeier
- * @author Elvin Gateri
  * @author Fuad Mohamoud
  */
 public class PACFundraiser extends Fundraiser
